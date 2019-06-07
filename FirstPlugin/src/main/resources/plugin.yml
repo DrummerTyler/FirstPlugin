@@ -1,0 +1,12 @@
+name: FirstPlugin
+version: ${project.version}
+main: me.tyler.firstplugin.FirstPlugin
+authors: [Tyler]
+description: this is my first plugin
+commands:
+  die:
+    description: U Dead
+    usage: /die
+  hp:
+    description: Free Health :O [Admins Only]
+    usage: /hp
