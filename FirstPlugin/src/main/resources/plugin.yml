@@ -3,6 +3,7 @@ version: ${project.version}
 main: me.tyler.firstplugin.FirstPlugin
 authors: [Tyler]
 description: this is my first plugin
+api-version: 1.13
 commands:
   die:
     description: U Dead
